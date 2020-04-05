@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136961043343",
+    "firebase_url": "https://photoedit-ca3da.firebaseio.com",
+    "project_id": "photoedit-ca3da",
+    "storage_bucket": "photoedit-ca3da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136961043343:android:993343f10cad27a154b9fa",
+        "android_client_info": {
+          "package_name": "com.example.photo_editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136961043343-6n7fntb3b4pm6dqepejj48eusndtuljo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDfnlX0gZ_DdWbObWzRnzn8K8lMFkFaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136961043343-6n7fntb3b4pm6dqepejj48eusndtuljo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
